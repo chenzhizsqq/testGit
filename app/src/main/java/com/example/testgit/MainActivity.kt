@@ -20,5 +20,7 @@ class MainActivity : AppCompatActivity() {
 
         //测试把新的改变转到个分支上
         //test 6
+
+        //test 7
     }
 }
